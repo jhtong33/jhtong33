@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 I am a M.S. at National Taiwan University. My background is the `Geophysics/Seismology` to explore Earth interior. My study focuses on `seismic anisotropy` beneath the Caucasus region. 
-- 📫 I’m currently as research assistant working under the supervision of Chen-Fen Huang in [Institute of Oceangraphy](http://www.oc.ntu.edu.tw/), National Taiwan University.
-- 🔭 I analyze time-series data to insight the meanings. I'm good at data visualization to help anyone understand data easily. 
-- ⚡ Fun fact: I joined international collboration - [Oldest@2](http://eri-ndc.eri.u-tokyo.ac.jp/PacificArray/Oldest-2/) to deploy ocean-bottom seismograph(OBS) and ocean-bottom electro-magnetometer(OBEM). To learn more about the deployment/recovery of OBS, click [here](https://www.youtube.com/watch?v=yN_EWkIdX0k) 
-
+- 📫 I’m currently as research assistant working under the supervision of Chen-Fen Huang in National Taiwan University.
+- 🌱 I joined international collboration - [Oldest@2](http://eri-ndc.eri.u-tokyo.ac.jp/PacificArray/Oldest-2/) to deploy ocean-bottom seismograph(OBS) and ocean-bottom electro-magnetometer(OBEM). To learn more about the deployment/recovery of OBS, click [here](https://www.youtube.com/watch?v=yN_EWkIdX0k) 
+- ⚡ Fun fact: Cola is my cute dog. 
 
 <!--
 **JingHuiTong/JingHuiTong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
